@@ -1,0 +1,6 @@
+configuration:  
+  projectName: configclientee
+server:  
+  port: 9001
+message:  
+  greeting: Hello from the house
