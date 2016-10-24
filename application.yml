@@ -1,5 +1,5 @@
 configuration:  
-  projectName: eee
+  projectName: configclient
 server:  
   port: 9000
 message:  
